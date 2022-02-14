@@ -1,6 +1,6 @@
 ### Olá ✌
 
-- 🔭 Atualmente trabalhando com o front-end.
+- 🔭 Atualmente trabalhando com front-end.
 - 🌱 Estou aprendendo Angular, TypeScript. 
 
 <div>
