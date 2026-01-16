@@ -1,7 +1,7 @@
 ### Olá ✌
 
 - 🔭 Atualmente trabalhando com front-end.
-- 🌱 Estou aprendendo Angular, TypeScript. 
+- 🌱 Estou aprendendo Nodejs. 
 
 <div>
   <a href="https://github.com/Bxstars">
