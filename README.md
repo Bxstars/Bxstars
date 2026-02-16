@@ -1,28 +1,91 @@
-### Olá ✌
+## Bárbara Xavier 
 
-- 🔭 Atualmente trabalhando com front-end.
-- 🌱 Estou aprendendo Nodejs. 
+<h3 align="center"> Frontend Developer • Angular Specialist • RxJS • TypeScript • Performance & Design Systems </h3> <p align="center"> <a href="https://www.linkedin.com/in/barbaraxavier-dev"> <img src="https://img.shields.io/badge/LinkedIn-Barbara%20Xavier-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/Bxstars"> <img src="https://img.shields.io/badge/GitHub-Bxstars-181717?style=for-the-badge&logo=github" /> </a> <img src="https://img.shields.io/badge/Location-Manaus%2C%20Brasil-6A0DAD?style=for-the-badge" /> </p>
 
-<div>
-  <a href="https://github.com/Bxstars">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bxstars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxstars&layout=compact&langs_count=7&theme=tokyonight"/>
+
+## Sobre mim
+Sou Desenvolvedora Frontend com 4+ anos de experiência em Angular, especializada em:
+
+- ⚡ Arquitetura escalável
+- 🔄 RxJS e programação reativa
+- 🎯 Performance e otimização
+- 🎨 Design Systems e UX
+- 🏭 Projetos para Indústria 4.0
+
+Atuo desenvolvendo interfaces robustas, acessíveis e altamente integradas a APIs REST, além de experiência com liderança técnica e mentoria.
+
+## Tech Stack
+
+ **Frontend**
+- Angular
+- TypeScript
+- RxJS
+- React
+- TailwindCSS
+- Design Systems
+- UX/UI
+
+**Backend & Integrações**
+- ASP.NET Core
+- APIs REST (Swagger)
+- MySQL
+
+**Big Data & Arquitetura**
+- Spark
+- Delta Lake
+- Hive
+- Trino
+- MinIO
+
+**Ferramentas**
+
+- Git & GitHub
+- Figma
+- Visual Studio
+- TFS
+- Metodologias Ágeis (Scrum & Kanban)
+
+## GitHub Stats
+
+  <!-- Profile Details -->
+<div align="center">
+  <img width="90%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bxstars&theme=tokyonight" />
 </div>
-  
-<div style="display: inline_block"><br>
-  <!--   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="BX-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="BX-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="BX-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="BX-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="BX-Ng" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="BX-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<br/>
+
+<!-- Stats + Top Languages -->
+<div align="center">
+  <img height="170em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bxstars&theme=tokyonight" />
+  <img height="170em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bxstars&theme=tokyonight" />
 </div>
-  
-  ##
-  
-<div> 
-</a> 
-  <a href="https://www.linkedin.com/in/barbaraxavier-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:bxstars4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<br/>
+
+<!-- Streak -->
+<div align="center">
+  <img width="60%"
+       src="https://streak-stats.demolab.com?user=Bxstars&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=BB86FC&currStreakLabel=BB86FC" />
 </div>
+
+## Destaques da Carreira
+
+Venturus — Desenvolvedora Full Stack
+
+-  Desenvolvimento de aplicações industriais com Angular
+-  Interfaces React com integração REST (Swagger)
+-  Tech Lead em projeto de Big Data
+-  Arquitetura com Spark, Delta Lake, Hive, Trino e MinIO
+-  Definição de padrões técnicos e mentoria
+
+## Áreas de Especialização
+
+- Arquitetura Frontend Escalável
+- Programação Reativa com RxJS
+- Performance & Otimização
+- Design Systems
+- Integração com APIs REST
+- Liderança Técnica
+
+
