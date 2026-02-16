@@ -78,7 +78,7 @@ Venturus — Desenvolvedora Full Stack
 ## GitHub Stats
 
 <!-- Streak -->
-<div align="center">
+<div>
   <img height="209em"
        src="https://streak-stats.demolab.com?user=Bxstars&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=BB86FC&currStreakLabel=BB86FC" />
     <img height="209em"
@@ -87,7 +87,7 @@ Venturus — Desenvolvedora Full Stack
 <br/>
 
 <!-- Profile Details -->
-<div align="center">
+<div>
   <img height="170em" 
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bxstars&theme=tokyonight" />
   <img height="170em"
