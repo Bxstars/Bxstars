@@ -1,5 +1,18 @@
+<h3 align="center" style="color:#CDB4FF;">
+  Frontend Developer • Angular Specialist • RxJS • TypeScript • Performance & Design Systems
+</h4>
 
-<h3 align="center"> Frontend Developer • Angular Specialist • RxJS • TypeScript • Performance & Design Systems </h3> <p align="center"> <a href="https://www.linkedin.com/in/barbaraxavier-dev"> <img src="https://img.shields.io/badge/LinkedIn-Barbara%20Xavier-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/Bxstars"> <img src="https://img.shields.io/badge/GitHub-Bxstars-181717?style=for-the-badge&logo=github" /> </a> <img src="https://img.shields.io/badge/Location-Manaus%2C%20Brasil-6A0DAD?style=for-the-badge" /> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/barbaraxavier-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Barbara%20Xavier-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Bxstars">
+    <img src="https://img.shields.io/badge/GitHub-Bxstars-3C096C?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Location-Manaus%2C%20Brasil-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 
 ## Sobre mim
@@ -64,26 +77,22 @@ Venturus — Desenvolvedora Full Stack
 
 ## GitHub Stats
 
-  <!-- Profile Details -->
+<!-- Streak -->
 <div align="center">
-  <img width="90%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bxstars&theme=tokyonight" />
+  <img height="209em"
+       src="https://streak-stats.demolab.com?user=Bxstars&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=BB86FC&currStreakLabel=BB86FC" />
+    <img height="209em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bxstars&theme=tokyonight" />
 </div>
 <br/>
 
-<!-- Stats + Top Languages -->
+<!-- Profile Details -->
 <div align="center">
-  <img height="170em"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bxstars&theme=tokyonight" />
+  <img height="170em" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bxstars&theme=tokyonight" />
   <img height="170em"
        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bxstars&theme=tokyonight" />
 </div>
 <br/>
-
-<!-- Streak -->
-<div align="center">
-  <img width="60%"
-       src="https://streak-stats.demolab.com?user=Bxstars&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=BB86FC&currStreakLabel=BB86FC" />
-</div>
 
 
