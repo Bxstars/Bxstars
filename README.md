@@ -19,10 +19,10 @@
 Sou Desenvolvedora Frontend com 4+ anos de experiência em Angular, especializada em:
 
 - ⚡ Arquitetura escalável
-- 🔄 RxJS e programação reativa
-- 🎯 Performance e otimização
-- 🎨 Design Systems e UX
-- 🏭 Projetos para Indústria 4.0
+- ⚡ RxJS e programação reativa
+- ⚡ Performance e otimização
+- ⚡ Design Systems e UX
+- ⚡ Projetos para Indústria 4.0
 
 Atuo desenvolvendo interfaces robustas, acessíveis e altamente integradas a APIs REST, além de experiência com liderança técnica e mentoria.
 
