@@ -26,6 +26,16 @@ Sou Desenvolvedora Frontend com 4+ anos de experiência em Angular, especializad
 
 Atuo desenvolvendo interfaces robustas, acessíveis e altamente integradas a APIs REST, além de experiência com liderança técnica e mentoria.
 
+### Destaques da Carreira
+
+Itriad / Venturus — Desenvolvedora Full Stack
+
+-  Desenvolvimento de aplicações industriais com Angular
+-  Interfaces React com integração REST (Swagger)
+-  Tech Lead em projeto de Big Data
+-  Arquitetura com Spark, Delta Lake, Hive, Trino e MinIO
+-  Definição de padrões técnicos e mentoria
+
 ## Tech Stack
 
 #### **Frontend**
@@ -58,25 +68,6 @@ Atuo desenvolvendo interfaces robustas, acessíveis e altamente integradas a API
 ![TFS](https://img.shields.io/badge/TFS-0078D7?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
-
-## Destaques da Carreira
-
-Venturus — Desenvolvedora Full Stack
-
--  Desenvolvimento de aplicações industriais com Angular
--  Interfaces React com integração REST (Swagger)
--  Tech Lead em projeto de Big Data
--  Arquitetura com Spark, Delta Lake, Hive, Trino e MinIO
--  Definição de padrões técnicos e mentoria
-
-## Áreas de Especialização
-
-- Arquitetura Frontend Escalável
-- Programação Reativa com RxJS
-- Performance & Otimização
-- Design Systems
-- Integração com APIs REST
-- Liderança Técnica
 
 ## GitHub Stats
 
