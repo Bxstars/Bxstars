@@ -30,11 +30,11 @@ Atuo desenvolvendo interfaces robustas, acessíveis e altamente integradas a API
 
 Itriad / Venturus — Desenvolvedora Full Stack
 
--  Desenvolvimento de aplicações industriais com Angular
--  Interfaces React com integração REST (Swagger)
--  Tech Lead em projeto de Big Data
--  Arquitetura com Spark, Delta Lake, Hive, Trino e MinIO
--  Definição de padrões técnicos e mentoria
+- ⭐ Desenvolvimento de aplicações industriais com Angular
+- ⭐ Interfaces React com integração REST (Swagger)
+- ⭐ Tech Lead em projeto de Big Data
+- ⭐ Arquitetura com Spark, Delta Lake, Hive, Trino e MinIO
+- ⭐ Definição de padrões técnicos e mentoria
 
 ## Tech Stack
 
