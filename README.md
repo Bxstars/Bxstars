@@ -1,6 +1,6 @@
-<h3 align="center" style="color:#CDB4FF;">
+<h1 align="center" style="color:#CDB4FF;">
   Frontend Developer 
-</h4>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=CDB4FF&size=22&center=true&vCenter=true&width=600&lines=Angular+Specialist;Performance+%26+Optimization;Design+Systems+%26+UX;Building+Scalable+Applications" />
