@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bxstars/Bxstars/edit/master/README.md">🇧🇷 Português</a>  &nbsp;|&nbsp;
-  <a href="https://github.com/Bxstars/Bxstars/edit/master/README.en.md">🇺🇸 English</a>
+  <a href="https://github.com/Bxstars/Bxstars/blob/master/README.md">🇧🇷 Português</a>  &nbsp;|&nbsp;
+  <a href="https://github.com/Bxstars/Bxstars/blob/master/README.en.md">🇺🇸 English</a>
 </p>
 
 ## Sobre mim
