@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#CDB4FF;">
-  Frontend Developer 
+  Software Developer 
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 ## Sobre mim
-Sou Desenvolvedora Frontend com 4+ anos de experiência em Angular, especializada em:
+Sou Desenvolvedora com 4+ anos de experiência em Angular, especializada em:
 
 - ⚡ Arquitetura escalável
 - ⚡ RxJS e programação reativa
