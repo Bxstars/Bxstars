@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Location-Manaus%2C%20Brasil-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Bxstars/Bxstars/edit/master/README.md">🇧🇷 Português</a>  &nbsp;|&nbsp;
+  <a href="https://github.com/Bxstars/Bxstars/edit/master/README.en.md">🇺🇸 English</a>
+</p>
 
 ## Sobre mim
 Sou Desenvolvedora Frontend com 4+ anos de experiência em Angular, especializada em:
