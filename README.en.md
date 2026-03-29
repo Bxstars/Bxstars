@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#CDB4FF;">
-  Frontend Developer 
+  Software Developer 
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ##  About Me
 
-Frontend Developer with 4+ years of experience specializing in Angular, with a strong focus on:
+Developer with 4+ years of experience specializing in Angular, with a strong focus on:
 
 - ⚡ Scalable architecture  
 - ⚡ RxJS and reactive programming  
