@@ -1,9 +1,9 @@
 <h3 align="center" style="color:#CDB4FF;">
-  Frontend Developer • Angular Specialist
+  Frontend Developer 
 </h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=CDB4FF&size=22&center=true&vCenter=true&width=600&lines=Performance+%26+Optimization;Design+Systems+%26+UX;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=CDB4FF&size=22&center=true&vCenter=true&width=600&lines=Angular+Specialist;Performance+%26+Optimization;Design+Systems+%26+UX;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="start">
-  🌎 <a href="https://github.com/Bxstars/Bxstars/blob/master/README.en.md">🇺🇸 English</a>
+  🌎 <a href="https://github.com/Bxstars/Bxstars/blob/master/README.en.md">🇺🇸 - English</a>
 </p>
 
 ## Sobre mim
