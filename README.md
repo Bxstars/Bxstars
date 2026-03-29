@@ -1,6 +1,10 @@
 <h3 align="center" style="color:#CDB4FF;">
-  Frontend Developer • Angular Specialist • RxJS • TypeScript • Performance & Design Systems
+  Frontend Developer • Angular Specialist
 </h4>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=CDB4FF&size=22&center=true&vCenter=true&width=600&lines=Performance+%26+Optimization;Design+Systems+%26+UX;Building+Scalable+Applications" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/barbaraxavier-dev">
@@ -14,7 +18,7 @@
   <img src="https://img.shields.io/badge/Location-Manaus%2C%20Brasil-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="start">
   🌎 <a href="https://github.com/Bxstars/Bxstars/blob/master/README.en.md">🇺🇸 English</a>
 </p>
 
