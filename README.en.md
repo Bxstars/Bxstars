@@ -1,6 +1,10 @@
-<h3 align="center" style="color:#CDB4FF;">
-  Frontend Developer • Angular Specialist • RxJS • TypeScript • Performance & Design Systems
-</h4>
+<h1 align="center" style="color:#CDB4FF;">
+  Frontend Developer 
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=CDB4FF&size=22&center=true&vCenter=true&width=600&lines=Angular+Specialist;Performance+%26+Optimization;Design+Systems+%26+UX;Building+Scalable+Applications" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/barbaraxavier-dev">
